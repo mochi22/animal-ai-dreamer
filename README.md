@@ -123,3 +123,8 @@ Further the documentation for [mlagents](https://github.com/Unity-Technologies/m
   - New features
     - Added raycast observations
     - Added agent global position to observations
+
+# deep Reinforcement Learning
+Using "Dreamer"!
+
+Dreamer is the one of the 「world model」
